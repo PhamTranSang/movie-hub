@@ -1,0 +1,8 @@
+# Design docs are kept outside version control
+/design/
+
+# Intellij
+/.idea/
+
+# Vscode
+/.vscode/
